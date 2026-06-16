@@ -13,7 +13,7 @@ A simple interactive navigation menu built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
-- 
+ 
 ## Learning
 - DOM Manipulation
 - Event Handling
